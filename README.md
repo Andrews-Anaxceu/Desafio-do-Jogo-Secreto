@@ -38,10 +38,6 @@ Este é um projeto simples de "Amigo Secreto" feito com HTML, CSS e JavaScript. 
 3. **Quando todos os nomes forem inseridos, clique em "Sortear Amigo".**
 4. **O nome sorteado será exibido na tela.**
 
-## 📜 Licença
-
-Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## ✨ Contribuição
 
 Sinta-se à vontade para contribuir! Basta abrir um **pull request** com melhorias ou sugestões.
